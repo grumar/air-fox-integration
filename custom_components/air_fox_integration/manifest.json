@@ -1,0 +1,10 @@
+{
+  "domain": "air_fox_integration",
+  "name": "Air Fox Integration",
+  "documentation": "https://github.com/grumar/air-fox-integration",
+  "issue_tracker": "https://github.com/grumar/air-fox-integration/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@grumar"],
+  "requirements": []
+}

@@ -1,0 +1,11 @@
+{
+  "_output_dir": "C:\\git\\air-fox2",
+  "_template": "https://github.com/oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "AirFoxIntegration",
+  "domain_name": "air_fox_integration",
+  "friendly_name": "Air Fox Integration",
+  "github_user": "grumar",
+  "project_name": "air-fox-integration",
+  "test_suite": "no",
+  "version": "0.0.0"
+}
